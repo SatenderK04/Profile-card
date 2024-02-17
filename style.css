@@ -28,7 +28,8 @@
 body{
     display: flex;
     height: 100vh;
-    justify-content: center;
+/* justify-content: center; */
+    margin: auto;
     align-items: center;
     background-color: #cbc9c9d3;
     background-image: url(back.jpg);
